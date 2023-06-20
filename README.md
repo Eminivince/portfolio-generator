@@ -1,3 +1,15 @@
+Preview
+![image](https://github.com/Eminivince/portfolio-generator/assets/90112964/f73d9e28-dead-4a11-960b-5c579397e6dd)
+
+![image](https://github.com/Eminivince/portfolio-generator/assets/90112964/cf41057a-3b58-4a8d-88f3-07edefcce34a)
+
+![image](https://github.com/Eminivince/portfolio-generator/assets/90112964/85f0327f-8bb6-42e9-b35f-bd7049841bc0)
+
+![image](https://github.com/Eminivince/portfolio-generator/assets/90112964/3b2a4b0e-7705-4d9a-99d5-b49b45efeec6)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

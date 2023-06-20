@@ -2,6 +2,7 @@ import React from 'react'
 import SignUpImage from '../Assets/Fiber Starter Files/Assets/Sign Up Image.png'
 import Homepage from './Homepage'
 import Why from './Why'
+import Footer from './Footer'
 
 const Login = () => {
   return (
@@ -47,6 +48,7 @@ const Login = () => {
 
         <Homepage />
         <Why />
+        <Footer />
     </div>
   )
 }
